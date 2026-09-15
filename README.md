@@ -1,4 +1,6 @@
-# Server Performance Stats (`server-stats.sh`)
+# Server Performance Stats (`https://github.com/ohrre/server-stats`)   
+
+
 
 Bash automation script to analyze and display Linux system performance metrics in the terminal and desktop GUI pop-up.
 
